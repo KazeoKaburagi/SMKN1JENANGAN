@@ -1,7 +1,1 @@
 hahahaha 
-baru 
-<<<<<<< HEAD
-wew
-=======
-alucard
->>>>>>> 82eddc123ccd63b12b4f98bc1cd9e8b9abeccb74
